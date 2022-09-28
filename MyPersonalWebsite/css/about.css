@@ -1,0 +1,48 @@
+.text-heading{
+  color: white;
+  text-align: center; 
+  font-family: arial;
+}
+
+.header{
+  background-color: rgb(231, 180, 38);
+  padding: 15px;
+  text-align: center;
+}
+
+.nav_menu{
+  overflow: hidden;
+  background-color: #333;
+  font-family: arial;
+}
+.nav_menu a {
+  float: left; 
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav_menu a:hover{
+  background-color: white;
+  color: green;
+}
+
+.About_Col{
+  font-family: arial;
+  text-align: center;
+}
+
+.Body_Col{
+  font-family: arial;
+  text-align: justify;
+}
+
+.stardew {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
